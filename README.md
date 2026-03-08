@@ -1,3 +1,4 @@
 # School-project-TC-7-Website-Template.
 My Website i build with HTML5 and CSS for my school project.
-<img width="1039" height="123" alt="image" src="https://github.com/user-attachments/assets/853b5324-a30a-472c-bd5c-e0281f98953b" />
+
+<img width="904" height="402" alt="image" src="https://github.com/user-attachments/assets/45d252f9-a91e-460a-873e-46901d8724f7" />
