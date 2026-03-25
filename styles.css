@@ -2,16 +2,26 @@
 
 
 
+}
 .moving-text {
-    display: inline-block;
-    animation: slide 2s infinite alternate ease-in-out;
-    color: #eeeeee44;
+        display: inline-block;
+        animation: slide 2s infinite ease-in-out;
+        color: white;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    @keyframes slide {
+        0%   { transform: translateX(0); }
+        50%  { transform: translateX(200px); }
+        100% { transform: translateX(0); }
 }
 
-@keyframes slide {
-    0%   { transform: translateX(0); }
-    100% { transform: translateX(200px); }
-}
+
+
+
+
+
 
 .oudad{
 color: #00ffc84b;
